@@ -12,7 +12,7 @@ app.use(
     cors({
       origin: [
         "http://localhost:5173",
-        // "https://online-study-assignments.web.app"
+        "https://bistro-boss-18f77.web.app"
       ],
       credentials: true,
     })
